@@ -1,0 +1,5 @@
+{
+  "name": "TubeGenius - YouTube Script AI",
+  "description": "An intelligent YouTube script generator that analyzes your style, suggests viral topics, and writes complete scripts using Gemini AI.",
+  "requestFramePermissions": []
+}
